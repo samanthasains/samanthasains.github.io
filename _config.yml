@@ -52,14 +52,16 @@ content:
     layout: list
     content:
       - layout: right
-        title: test
-        sub_title: test
-        caption: test
-        link: test
+        title: Freelance
+        sub_title: Facilitator and Facilitation Training
+        caption: Jan. 2021 - present
         quote: >
-          test
+          I co-design and facilitate spaces for groups, ranging from more effective and participatory meetings to short- and long-term plans of action. In doing so, I aim to engage groups in an experience that invites the senses, emotional responses, insights, and the will to take action, leading to collective decisions that truly reflect group wisdom and buy-in.
         description: | 
-          test
+          - Co-designed and co-trained online facilitation courses to build capacity of clients
+            - [TFM Online](https://www.top-training.net/w/courses/46-top-facilitation-methods-online)
+            - [Shift Happens](https://www.top-training.net/w/courses/38-shift-happens-design-principles-for-a-virtual-world)
+          - Provide custom group facilitation, in-person and online, to enable groups to collectively think, make decisions, and take action
       - layout: right
         title: Institute of Cultural Affairs
         sub_title: Program Manager
