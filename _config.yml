@@ -56,9 +56,9 @@ content:
         sub_title: Facilitator and Facilitation Training
         caption: Jan. 2021 - present
         quote: >
-          I co-design and facilitate spaces for groups, ranging from more effective and participatory meetings to short- and long-term plans of action. In doing so, I aim to engage groups in an experience that invites the senses, emotional responses, insights, and the will to take action, leading to collective decisions that truly reflect group wisdom and buy-in.
+          I co-design and facilitate spaces for groups, ranging from more effective and participatory meetings to short- and long-term plans of action.
         description: | 
-          - Co-designed and co-trained online facilitation courses to build capacity of clients
+          - Co-design and co-train online facilitation courses to build capacity of clients
             - [TFM Online](https://www.top-training.net/w/courses/46-top-facilitation-methods-online)
             - [Shift Happens](https://www.top-training.net/w/courses/38-shift-happens-design-principles-for-a-virtual-world)
           - Provide custom group facilitation, in-person and online, to enable groups to collectively think, make decisions, and take action
@@ -89,13 +89,18 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+        title: Northwestern University
+        sub_title: Bootcamp Certificate in Data Science and Visualization
+        caption: March 2021
+        description: |
+          24-week intensive focused on data analytics fundamentals, including Intermediate Excel (pivot tables, VBA), python, databases (SQL, MongoDB), front end development (HTML, CSS, JavaScript), Tableau, GitHub
+      - layout: top-right
+        title: Northwestern University
+        sub_title: Bacherlor of Arts in Sociology and Gender and Sexuality Studies
+        caption: June 2014
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
