@@ -52,14 +52,24 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
+        title: Institute of Cultural Affairs
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        link: www.ica-usa.org
         quote: >
-          Short description of the company (optional)
+          The ICA is a capacity-building nonprofit at the intersection of social justice and environment. They use participatory facilitation to enable community groups to come to a shared awareness and make collective decisions.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Project Management
+          -designed
+          -tracked
+          -compiled
+          Facilitation
+          -provided
+          completed
+          -cotrained
+          Nework Building
+          - provided
+          -co-organized
   - title: Education
     layout: list
     content:
