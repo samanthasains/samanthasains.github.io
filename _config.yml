@@ -7,6 +7,7 @@ version: 2
 
 # Personal info
 name: Samantha Sainsbury
+title: Transformational Change Consultant
 email: samanthasains@gmail.com
 # email_title: Email (Email title override)
 
@@ -30,24 +31,37 @@ about_content: | # this will include new lines to allow paragraphs
   I am a mission-driven leader and believe in the capacity of groups and individuals to create their own change. My past experience has focused on project management and group facilitation, in which I leveraged my skill and interest in data storytelling to complement collective action and decision-making. I am seeking to pivot to a role where I can expand my data skills while still supporting social purpose work, ensuring that clients have the ability to make decisions informed by the most accurate and accessible data available.
 
 content:
-  - title: Projects # Title for the section
+  - title: Class Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: Bird Migration 
+        link: github.com/samanthasains/Bird_Migration
+        link_text: GitHub Repository
         quote: >
-          Short overview of the project (optional)
+          This project used bird migration data from US Fish and Wildlife to generate an interactive map showing bird counts for 10 bird species in six different regions
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          - Core Responsibilities: Wrote code for Flask App to render database visualizations
+          - Languages: Python, HTML, JavaScript, CSS
+      - layout: left
+        title: Riverdale Ship Wars
+        link: https://github.com/samanthasains/RDShipWars
+        link_text: GitHub Repository
+        quote: >
+          This project applied sentiment analysis to twitter data to compare the sentiments about four different ‘ships’ from the CW’s Riverdale. 
+        description: | # this will include new lines to allow paragraphs
+          - Core Responsibilities: Wrote python code to pull data from Twitter, clean raw data, and iterate through CSV files to generate graphs
+          - Languages/Tools: Python, Tweepy, JavaScript, HTML, CSS
+      - layout: left
+        title: Candyology
+        link: https://github.com/samanthasains/candyology
+        link_text: GitHub Repository
+        quote: >
+          This project used candy-related data from Kaggle and a candy wholesaler’s website to answer questions about candy consumption, production, and preferences.
+        description: | # this will include new lines to allow paragraphs
+          - Core Responsibilites: Wrote Python code to generate charts and graphs
+          - Languages: Python
+  
   - title: Experience
     layout: list
     content:
