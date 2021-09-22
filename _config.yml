@@ -53,8 +53,12 @@ content:
     content:
       - layout: right
         title: Institute of Cultural Affairs
-        sub_title: Job title
+        sub_title: Program Manager
         caption: Date Range (eg. November 2016 - present)
+        sub_title: Program Coordinator
+        caption: dates2
+        sub_title: AmeriCorps
+        caption: dates 3
         link: www.ica-usa.org
         quote: >
           The ICA is a capacity-building nonprofit at the intersection of social justice and environment. They use participatory facilitation to enable community groups to come to a shared awareness and make collective decisions.
