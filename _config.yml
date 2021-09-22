@@ -52,6 +52,15 @@ content:
     layout: list
     content:
       - layout: right
+        title: test
+        sub_title: test
+        caption: test
+        link: test
+        quote: >
+          test
+        description: | 
+          test
+      - layout: right
         title: Institute of Cultural Affairs
         sub_title: Program Manager
         caption: Sept. 2014 - Jan. 2021
