@@ -78,8 +78,14 @@ content:
           - Provide custom group facilitation, in-person and online, to enable groups to collectively think, make decisions, and take action
       - layout: right
         title: Institute of Cultural Affairs
-        sub_title: Program Manager
-        caption: Sept. 2014 - Jan. 2021
+        sub_title: |
+          Program Manager
+          Program Coordinator
+          AmeriCorps Member
+        caption: |
+          March 2019 - Jan. 2021
+          Aug. 2015 - March 2019
+          Sept. 2014 - July 2015
         link: www.ica-usa.org
         quote: >
           The ICA is a capacity-building nonprofit at the intersection of social justice and environment. They use participatory facilitation to enable community groups to come to a shared awareness and make collective decisions.
@@ -123,12 +129,10 @@ content:
         sub_title: Bachelor of Arts in Sociology and Gender and Sexuality Studies
         caption: June 2014
           
-  - title: A Little More About Me
+  - title: Interests
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+    content: | # this will include new lines to allow paragraph
+      In my free time, I enjoy reading (find me on [GoodReads](https://www.goodreads.com/user/show/61897931-samantha-sainsbury)!), baking ([some of my favorite bakes](https://photos.app.goo.gl/6xVN3o8VHvS1EvwLA)), musical sketch comedy, acting, and CrossFit.
 
 # Footer
 footer_show_references: true
