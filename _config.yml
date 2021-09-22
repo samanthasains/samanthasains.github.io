@@ -26,15 +26,12 @@ linkedin_username: samanthasainsbury
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile-1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+I am a mission-driven leader and believe in the capacity of groups and individuals to create their own change. 
+My past experience has focused on project management and group facilitation, in which I leveraged my skill and interest
+ in data storytelling to complement collective action and decision-making. I am seeking to pivot to a role where I can expand 
+ my data skills while still supporting social purpose work, ensuring that clients have the ability to make decisions informed by the most accurate and accessible data available.
 
 content:
   - title: Projects # Title for the section
