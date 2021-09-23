@@ -50,7 +50,7 @@ content:
         quote: >
           This project applied sentiment analysis to twitter data to compare the sentiments about four different ‘ships’ from the CW’s Riverdale. 
         description: | # this will include new lines to allow paragraphs
-          - Core Responsibilities: Wrote python code to pull data from Twitter, clean raw data, and iterate through CSV files to generate graphs
+          - Core Responsibilities: Wrote python code to pull data from Twitter and iterate through CSV files to generate graphs
           - Languages/Tools: Python, Tweepy, JavaScript, HTML, CSS
       - layout: left
         title: Candyology
