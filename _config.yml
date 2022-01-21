@@ -35,15 +35,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Bird Migration 
-        link: github.com/samanthasains/Bird_Migration
-        link_text: GitHub Repository
-        quote: >
-          This project used bird migration data from US Fish and Wildlife to generate an interactive map showing bird counts for 10 bird species in six different regions
-        description: | # this will include new lines to allow paragraphs
-          - Core Responsibilities: Wrote Python code for Flask App to render database visualizations
-          - Languages: Python, HTML, JavaScript, CSS
-      - layout: left
         title: Riverdale Ship Wars
         link: https://github.com/samanthasains/RDShipWars
         link_text: GitHub Repository
@@ -52,6 +43,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Core Responsibilities: Wrote Python code to pull data from Twitter and iterate through CSV files to generate graphs
           - Languages/Tools: Python, Tweepy, JavaScript, HTML, CSS
+      - layout: left
+        title: Bird Migration 
+        link: github.com/samanthasains/Bird_Migration
+        link_text: GitHub Repository
+        quote: >
+          This project used bird migration data from US Fish and Wildlife to generate an interactive map showing bird counts for 10 bird species in six different regions
+        description: | # this will include new lines to allow paragraphs
+          - Core Responsibilities: Wrote Python code for Flask App to render database visualizations
+          - Languages: Python, HTML, JavaScript, CSS
       - layout: left
         title: Candyology
         link: https://github.com/samanthasains/candyology
